@@ -5,7 +5,7 @@ Web Application for booking cleaners online.
 
 ### Usage
 
-git clone https://github.com/Anandks1993/book-my-cleaners.git
-npm install
-npm start
-Open http://localhost:8080 in your browser
+1. git clone https://github.com/Anandks1993/book-my-cleaners.git
+2. npm install
+3. npm start
+4. Open http://localhost:8080 in your browser

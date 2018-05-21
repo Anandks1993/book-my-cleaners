@@ -1,10 +1,10 @@
 {
-  "name": "react-js-boiler-plate",
+  "name": "book-my-cleaners",
   "version": "1.0.0",
-  "description": "React JS boilerplate",
+  "description": "Book My Cleaner",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Anandks1993/react-js-boiler-plate.git"
+    "url": "https://github.com/Anandks1993/book-my-cleaners.git"
   },
   "main": "index.js",
   "scripts": {
